@@ -1,4 +1,4 @@
-### Hello, everybody! 👋
+### How do you do? 👋
 
 - 🔭 I’m currently studying at SeoulTech.
 - 🌱 I’m currently majoring in Applied A.I. and C.S.E.
