@@ -8,3 +8,5 @@
 
 
 ![Dale Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?moordo91=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
