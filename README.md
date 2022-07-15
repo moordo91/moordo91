@@ -1,5 +1,7 @@
 ### How do you do? 👋
 
+"Mo or Do" is a Korean proverb, which means all or nothing.
+
 - 🔭 I’m currently studying at SeoulTech.
 - 🌱 I’m currently majoring in Applied A.I. and C.S.E.
 - 👯 I welcome everyone interested in me.
