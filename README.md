@@ -1,7 +1,7 @@
 ### How do you do? 👋
 
 "Mo or Do" is a Korean proverb, which means all or nothing.  
-My name is Daeil. You can call me 'Dale'.
+My name is Daeil. You can call me 'Dale' or 'Han'.
 
 - 🔭 I’m currently studying at SeoulTech.
 - 🌱 I’m currently majoring in Applied A.I. and C.S.E.
