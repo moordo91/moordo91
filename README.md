@@ -16,4 +16,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=moordo91&layout=compact" height=160 vspace=40>
 </p>
 
-<a herf="https://solved.ac/potatocake"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatocake" hspace=280></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatocake)](https://solved.ac/potatocake)
