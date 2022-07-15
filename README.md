@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moordo91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={potatocake})](https://solved.ac/{potatocake})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=potatocake)](https://solved.ac/potatocake)
