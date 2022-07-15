@@ -6,7 +6,7 @@
 - 😊 I can help undergraduate or high school students who are interested in A.I.
 - 📫 How to reach me: moordo91@gmail.com
 
-\\
+\n
 
 
 ![Dale Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=tokyonight)
