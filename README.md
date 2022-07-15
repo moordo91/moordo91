@@ -12,8 +12,8 @@
   
   
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=tokyonight" height=170 vspace=40>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=moordo91&layout=compact" height=170 vspace=40>
+  <img src = "https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=tokyonight" height=160 vspace=40>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=moordo91&layout=compact" height=160 vspace=40>
 </p>
 
 <a herf="https://solved.ac/potatocake"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=potatocake" hspace=280></a>
