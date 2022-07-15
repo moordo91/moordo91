@@ -7,4 +7,4 @@
 - 📫 How to reach me: moordo91@gmail.com
 
 
-![Dale Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=radical)
+![Dale Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=moordo91&show_icons=true&theme=tokyonight)
