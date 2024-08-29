@@ -2,7 +2,7 @@
 
 See? He was a dreamful sophomore.
 
-Now he is, getting his B.S soon, just a dumbass.
+Now he is, starting his M.S., just a dumbass.
 
 Be careful.
 
