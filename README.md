@@ -6,4 +6,4 @@ Now he is, running on his M.S., just a dumbass.
 
 Be careful.
 
-He could put your company out of business.
+He could make your company awful.
