@@ -9,9 +9,5 @@ Be careful.
 He could make your company awful.
 
 
-...
-
-
-But he is hiring...
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![CV](https://img.shields.io/badge/CV-PDF-red)](./cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daeil-han-892b3323b/)
