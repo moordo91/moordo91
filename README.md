@@ -6,7 +6,7 @@ Now he is, running on his M.S., just a dumbass.
 
 Be careful.
 
-He could make your company awful.
+He could make your company out of business.
 
 
 [![CV](https://img.shields.io/badge/CV-PDF-red)](./cv_250728.pdf)
