@@ -9,5 +9,5 @@ Be careful.
 He could make your company out of business.
 
 
-[![CV](https://img.shields.io/badge/CV-PDF-red)](./cv_korean.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-red)](./CV_korean.pdf)
 [![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daeil-han-892b3323b/)
